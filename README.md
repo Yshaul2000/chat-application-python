@@ -253,19 +253,13 @@ block_or_blocked_clients = {
   - select
   - threading
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-Copyright (c) 2025 Yshaul2000
-
 ## 👨‍💻 Author
 
-Yinon Shaul (211693114)
+Yinon Shaul
 
-## 🤝 Contributing
+## 🤝 Feedback
 
-Contributions, issues, and feature requests are welcome! Feel free to check the issues page.
+Feedback, suggestions, and improvement ideas are always welcome!
 
 ## 📝 Notes
 
