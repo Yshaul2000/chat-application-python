@@ -1,3 +1,4 @@
+# GUI Chat Client using Tkinter and socket programming
 import socket
 import threading
 import tkinter as tk
